@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'Fraunces';
+  src: url(./fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url(./fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+  font-weight: 500;
+}
+
 :root {
   --primary-clr-1: hsl(158, 36%, 37%);
   --primary-clr-2: hsl(30, 38%, 92%);
@@ -99,7 +111,7 @@ body {
   color: var(--secondary-clr-3);
   background-color: var(--primary-clr-1);
   padding: 1rem;
-  border-radius: 0.5rem;
+  border-radius: 0.75rem;
   border: solid;
 }
 
