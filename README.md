@@ -9,7 +9,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -23,9 +22,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/VitorioTuckers/Frontend-Mentor-Challenge-1)
+- Live Site URL: [Add live site URL here](https://vitoriotuckers.github.io/Frontend-Mentor-Challenge-1/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/VitorioTuckers)
